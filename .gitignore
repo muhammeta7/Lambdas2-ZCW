@@ -4,5 +4,7 @@ target/*
 .classpath
 .settings
 .idea/
+target
+.DS_Store
 
 
